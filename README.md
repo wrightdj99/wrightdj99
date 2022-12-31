@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wrightdj99
-- 👀 I’m interested in developing effective, user-friendly applications in Java, Python, SQL and C# (coming up)
-- 🌱 I’m currently learning about anything and everything regarding software development, as I'm obtaining my Master's in it.
+- 👀 I’m interested in developing effective, user-friendly applications using mainly Java and React. However, I'll occasionally do a project for fun in Python, C, Golang, etc.
+- 🌱 I’m currently learning about the newest advancements in Web3, especially how things like the AI and blockchain technology will impact the end-user experience on the web.
 - 💞️ I’m looking to collaborate on projects written in Java and that have both a front and a back-end component
 - 📫 How to reach me: my email is wrightdj99@gmail.com
 
